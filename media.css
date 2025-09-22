@@ -1,0 +1,536 @@
+@media(min-width: 576px){
+
+/* BANNER */
+    .carousel-inner h2 {
+        font-size: 25px;
+    }
+
+    .carousel-inner .banner-inner p {
+        font-size: 15px;
+    }
+
+    .carousel-inner .banner-inner h5 {
+      font-size: 18px;
+ }
+    .carousel-inner a {
+        font-size: 11px;
+        padding: 10px 15px;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+    
+        display: none;
+    }
+    
+/* ABOUT */
+
+.about-content h2{
+	font-size: 40px;
+    padding-top: 30px;
+ }
+
+ .about-content p{
+	font-size: 15px;
+ }
+
+ .about .about-content a{
+
+	font-size: 15px;
+	border-radius: 50px;
+	padding: 9px 34px;
+ }
+
+ /* SERVICES */
+
+.services .services-title h2{
+	font-size: 40px;
+}
+
+.services .services-title h3 {
+	font-size: 15px;
+ }
+
+ .services .services-iteam .button a{
+	font-size: 13px;
+    padding: 11px 20px;
+}
+
+/* OUR-STORY */
+
+ .our-story .our-story-content span{
+	font-size: 40px;
+ }
+
+ .our-story .our-story-content h2{
+	font-size: 39px;
+ }
+
+ .our-story .our-story-content h3{
+	font-size: 19px;
+ }
+
+ .our-story .our-story-content a{
+	font-size: 19px;
+	border-radius: 50px;
+	padding: 10px 24px;
+ }
+
+ .our-story .our-story-content p{
+	font-size: 15px;
+ }
+
+ .our-story .our-story-content a{
+	font-size:17px;
+	border-radius: 50px;
+	padding: 8px 20px;
+
+ }
+
+ /* OUR-SHOP */
+
+ .our-shop .our-shop-items .our-shop-content {
+	padding:200px 0;
+  }
+
+  .our-shop .our-shop-items .our-shop-content h2{
+
+	font-size: 36px;
+  }
+  .our-shop .our-shop-items .our-shop-content p{
+	font-size: 15px;
+  }
+
+  .our-shop .our-shop-items .our-shop-content  a{
+	font-size: 15px;
+	border-radius: 50px;
+	padding: 11px 30px;
+}
+
+/* CONTECT */
+
+.contact .main h2{
+	font-size: 40px;
+}
+.contact .main a{	
+	font-size: 16px;
+	padding: 9px 27px;
+
+ }
+
+ .contact-content h2{
+	font-size: 36px;
+ }
+ .contact-content p{
+	font-size: 16px;
+
+ }
+
+ /* <!-- FEATURES --> */
+
+ .features .features-content h2{
+	font-size: 40px;
+ }
+
+ .features .features-content h3{
+	font-size: 40px;
+    margin: 0;
+    padding: 0;
+ }
+
+ .features .features-content p{
+	font-size: 16px;
+ }
+
+ .features .features-content .features-main p{
+	font-size: 20px;
+ }
+
+
+ /* BLOG */
+
+ .blog .blog-title h2{
+	font-size: 37px;
+	
+ }
+
+.blog .blog-items .blog-content a{
+	color: #d17474;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+/* <!-- SHOP --> */
+
+ .shop .shop-title h2{
+	font-size: 35px;
+ } 
+ 
+ .shop .shop-title p{
+	font-size: 17px;
+ }
+
+ .shop .shop-main .shop-items h6{
+	padding:10px 18px;
+ }
+
+ .shop .shop-main .shop-items h4{
+	font-size: 20px;
+ }
+
+/* FOOTER */
+
+.footer .footer-main .footer-inner .footer-title p{
+	font-size: 17px;	
+  padding: 0 113px;
+}
+}
+
+@media(min-width: 768px){
+
+/* BANNER */
+    .carousel-inner h2 {
+        font-size: 35px;
+    }
+
+    .carousel-inner .banner-inner p {
+        font-size: 15px;
+    }
+
+    
+ .carousel-inner .banner-inner h5 {
+    font-size: 23px;
+ }
+
+ /* SERVICES */
+
+ .services .services-iteam .button a{
+	font-size: 15px;
+    padding: 11px 23px;
+}
+ /* <!-- FEATURES --> */
+
+ .features .features-content h2{
+	font-size: 46px;
+ }
+/* FOOTER */
+
+
+.footer .footer-main .footer-inner .footer-title p{
+	font-size: 17px;	
+  padding: 0 40px;
+}
+
+}
+
+@media(min-width: 992px){
+
+/* BANNER */
+
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+        display:none;
+    }
+    .carousel-inner h2 {
+        font-size: 45px;
+    }
+   .carousel-inner .banner-inner h5 {
+       font-size: 23px;	
+ }
+
+/* ABOUT */
+
+ .about-content h2{
+	font-size: 40px;
+    padding-top: 0; 
+ }
+ .about-content p{
+	font-size: 17px;
+ }
+ .about .about-content a{
+	font-size: 18px;
+	border-radius: 50px;
+	padding: 12px 35px;
+ } 
+
+ /* OUR-SHOP */
+
+  .our-shop .our-shop-items .our-shop-content {
+	padding:150px 0;
+  }
+
+  .our-shop .our-shop-items .our-shop-content h2{
+	font-size: 55px;
+  }
+  .our-shop .our-shop-items .our-shop-content p{
+	font-size: 18px;
+  }
+
+  .our-shop .our-shop-items .our-shop-content  a{
+
+	font-size: 16px;
+	padding: 14px 37px;
+}
+
+ /* <!-- FEATURES --> */
+
+ .features .features-content h2{
+	font-size: 45px;
+ }
+  /* BLOG */
+
+  .blog .blog-content h2{
+	font-size: 24px;
+}
+
+.blog .blog-items .blog-content a{
+	font-size: 16px;
+}
+/* FOOTER */
+.footer .footer-main .footer-inner .footer-title p{
+	font-size: 17px;	
+  padding: 0 86px;
+}
+}
+
+@media(min-width: 1200px){
+
+/* BANNER */
+    .carousel-inner h2 {
+        font-size:85px;
+     }
+
+     .carousel-inner a{
+        font-size: 15px;
+        border-radius: 50px;
+        padding: 13px 30px;
+     }
+
+    .carousel-inner .banner-inner p {
+        font-size: 20px;
+    }
+
+    .carousel-inner .banner-inner h5 {
+        font-size: 35px;   
+     }
+
+     .carousel-control-next-icon, .carousel-control-prev-icon {
+        display:block;
+    }
+
+    .about-content h2{
+        font-size: 50px;
+     }
+     .about-content p{
+        font-size: 17px;
+     }
+    
+     .about .about-content a{
+        font-size: 18px;
+        border-radius: 50px;
+        padding: 12px 35px;
+     } 
+
+     
+ /* OUR-STORY */
+
+ .our-story .our-story-content span{
+	font-size: 70px;
+ }
+
+ .our-story .our-story-content h2{
+	font-size: 50px;
+ }
+
+ .our-story .our-story-content h3{
+	font-size: 19px;
+ }
+
+ .our-story .our-story-content a{
+	font-size: 19px;
+	border-radius: 50px;
+	padding: 12px 30px;
+ }
+ .our-story .our-story-content p{
+	font-size: 19px;	
+ }
+
+ /* CONTECT */
+
+.contact .main h2{
+	font-size: 40px;
+}
+
+.contact .main a{
+	font-size: 17px;
+	padding: 11px 30px;
+ }
+
+ .contact-content h2{
+	font-size: 50px;
+ }
+ .contact-content p{
+	font-size: 18px;
+ }
+
+ 
+ /* FOOTER */
+.footer .footer-main .footer-inner .footer-title p{
+	font-size: 17px;	
+  padding: 0 86px;
+}
+
+
+}
+
+@media(min-width: 1400px){
+
+/* BANNER */
+
+    .carousel-inner h2 {
+        font-size:85px;
+     }
+
+     .carousel-inner a{
+        font-size: 15px;
+        border-radius: 50px;
+        padding: 13px 30px;
+     }
+ 
+    .carousel-inner .banner-inner p {
+        font-size: 20px;
+    }
+    .carousel-inner .banner-inner h5 {
+        font-size: 35px;   
+     }
+
+     .carousel-control-next-icon, .carousel-control-prev-icon {
+        display:block;
+    }
+    
+/* ABOUT */
+
+.about-content h2{
+	font-size: 50px;
+
+ }
+
+ .about-content p{
+	font-size: 19px;
+ }
+
+ .about .about-content a{
+	font-size: 18px;
+	border-radius: 50px;
+	padding: 12px 35px;
+
+ } 
+
+/* SERVICES */
+
+.services .services-title h3 {
+	font-size: 17px;
+ }
+
+.services .services-title h2{
+	font-size: 50px;
+}
+
+.services .services-iteam .button a{
+	font-size: 16px;
+	border-radius: 50px;
+	padding: 14px 37px;
+}
+
+ .services .services-iteam h6{
+	font-size: 28px;	
+ }
+ .services .services-iteam p{
+	font-size: 17px;
+ }
+
+ /* OUR-STORY */
+
+ .our-story .our-story-content span{
+	font-size: 70px;
+ }
+ .our-story .our-story-content h2{
+	font-size: 50px;
+ }
+ .our-story .our-story-content h3{
+	font-size: 19px;
+ }
+ .our-story .our-story-content a{
+	font-size: 19px;
+	border-radius: 50px;
+	padding: 12px 30px;
+ }
+ .our-story .our-story-content p{
+	font-size: 19px;
+	
+ }
+
+ /* OUR-SHOP */
+
+ .our-shop .our-shop-items .our-shop-content {
+	padding:150px 0;
+  }
+  .our-shop .our-shop-items .our-shop-content h2{
+	font-size: 55px;
+  }
+  .our-shop .our-shop-items .our-shop-content p{
+	font-size: 18px;
+  }
+
+  .our-shop .our-shop-items .our-shop-content  a{
+
+	font-size: 16px;
+
+	padding: 14px 37px;
+}
+
+/* FEATURES */
+
+ .features .features-content h2{
+	font-size: 50px;
+ }
+
+ .features .features-content h3{
+	font-size: 50px;
+ }
+
+ .features .features-content p{
+	font-size: 18px;
+
+ }
+
+ .features .features-content .features-main p{
+	font-size: 25px;
+ }
+ 
+  /* BLOG */
+
+  .blog .blog-content h2{
+	font-size: 25px;
+}
+.blog .blog-title h2{
+	font-size: 50px;
+	
+ }
+.blog .blog-items .blog-content a{
+	font-size: 18px;
+}
+
+/* SHOP */
+.shop .shop-title h2{
+	font-size: 40px;
+ } 
+ 
+ .shop .shop-title p{
+	font-size: 19px;
+ }
+/* FOOTER */
+.footer .footer-main .footer-inner .footer-title p{
+	font-size: 17px;	
+   padding: 0 50px 0 0;
+}
+
+ 
+}
